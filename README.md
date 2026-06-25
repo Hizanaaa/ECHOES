@@ -54,7 +54,7 @@ The Flask server sends your text to a locally running Ollama model with a prompt
 
    ```bash
    git clone <your-repo-url>
-   cd moodlens
+   cd ECHOES
    pip install flask flask-cors requests
    ```
 
